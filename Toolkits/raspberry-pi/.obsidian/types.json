@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Module": "multitext",
+    "Script_ID": "multitext",
+    "Script-ID": "multitext",
+    "type": "multitext",
+    "name": "multitext"
+  }
+}

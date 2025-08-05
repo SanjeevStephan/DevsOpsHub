@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "563fe65a4f74c057",
+    "type": "split",
+    "children": [
+      {
+        "id": "058a9f5a300a8e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7cbee4dcbf297f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "files/rc.local/autostart a script using rc.local.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "autostart a script using rc.local"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5022e1ec2a073def",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4222c96ba469d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fe14e653edea2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ab1ef4a43bddaee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"module\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f179f85dae96dd0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 597.5
+  },
+  "right": {
+    "id": "8ff331351eafc29b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c2cbb859342526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c057ea78168bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "faq/run a script in the background.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for run a script in the background"
+            }
+          },
+          {
+            "id": "ddd1a1c83fc386cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "faq/run a script in the background.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from run a script in the background"
+            }
+          },
+          {
+            "id": "3faad14ede29a47d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59332072a7ba88eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "faq/run a script in the background.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of run a script in the background"
+            }
+          },
+          {
+            "id": "f8547cd7e1557fea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c7cbee4dcbf297f",
+  "lastOpenFiles": [
+    "faq/run a script in the background.md",
+    "files/rc.local/verify if the script is running correctly at startup.md",
+    "setup/nmcli/create a new network connection using nmcli.md",
+    "Captivate Homepage.md",
+    "pymodules/Gunicorn/what is gunicorn.md",
+    "pymodules/Gunicorn/setup Gunicorn.md",
+    "files/rc.local/autostart a script using rc.local.md",
+    "commands/raspi-config.md",
+    "commands/pinout.md",
+    "commands/nmcli.md",
+    "Scripts.md",
+    "Modules.md",
+    "pymodules/All/os.md",
+    "pymodules/OS/all OS commands and functions.md",
+    "pymodules/Pyfiglet/pyfiglet.md",
+    "pymodules/Zipfile/zipfile.md",
+    "pyframeworks/Django/faqs/create a superuser in Django.md",
+    "pyframeworks/Django/register a model with the Django admin interface.md",
+    "pyframeworks/Django/faqs",
+    "pyframeworks/Django/faqs/how does Django's admin interface work.md",
+    "pyframeworks/Django/key features of Django.md",
+    "pyframeworks/Django/what is Django.md",
+    "pymodules/All/stormssh.md",
+    "pyframeworks/Django",
+    "pyframeworks",
+    "pymodules/All/gpiozero.md",
+    "pymodules/OS/all OS commands for file management and directory operations.md",
+    "pymodules/OS",
+    "pymodules/Zipfile/extract a ZIP file.md",
+    "pymodules/Zipfile/create a zip file of all the files in the specified directory.md",
+    "pymodules/Zipfile",
+    "pymodules/Pyfiglet",
+    "pymodules/Gunicorn",
+    "services/nginx",
+    "pyframeworks/Flask",
+    "services/apache2"
+  ]
+}

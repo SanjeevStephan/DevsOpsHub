@@ -1,0 +1,106 @@
+[
+{
+  "model": "membersapp.membermodel",
+  "pk": 1,
+  "fields": {
+    "image": "uploads/Ammy.jpg",
+    "name": "Ammy",
+    "country": "Italy",
+    "profession": "Chef",
+    "hobby": "Pottery",
+    "joindate": "2025-03-17",
+    "martial_status": "married"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 2,
+  "fields": {
+    "image": "uploads/brandon.jpg",
+    "name": "Brandon",
+    "country": "United Kingdom ",
+    "profession": "Historian",
+    "hobby": "Chess",
+    "joindate": "2025-03-17",
+    "martial_status": "married"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 3,
+  "fields": {
+    "image": "uploads/Britney.jpg",
+    "name": "Britney",
+    "country": "United States ",
+    "profession": "Chef",
+    "hobby": "Gaming",
+    "joindate": "2025-03-17",
+    "martial_status": "married"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 4,
+  "fields": {
+    "image": "uploads/bruce.jpg",
+    "name": "Bruce",
+    "country": "Australia",
+    "profession": "Marine Biologist  ",
+    "hobby": "Surfing",
+    "joindate": "2025-03-17",
+    "martial_status": "Unmarried"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 5,
+  "fields": {
+    "image": "uploads/david.jpg",
+    "name": "David",
+    "country": "Canada",
+    "profession": "Wildlife Photographer  ",
+    "hobby": "Hiking",
+    "joindate": "2025-03-17",
+    "martial_status": "married"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 6,
+  "fields": {
+    "image": "uploads/jhanki.jpg",
+    "name": "Jhanki",
+    "country": "India",
+    "profession": "Classical Dancer",
+    "hobby": "Yoga",
+    "joindate": "2025-03-17",
+    "martial_status": "married"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 7,
+  "fields": {
+    "image": "uploads/stephan.jpg",
+    "name": "Stephan",
+    "country": "France",
+    "profession": "Cybersecurity Engineer",
+    "hobby": "Hacking",
+    "joindate": "2025-03-17",
+    "martial_status": "Unmarried"
+  }
+},
+{
+  "model": "membersapp.membermodel",
+  "pk": 8,
+  "fields": {
+    "image": "uploads/Wanda.jpg",
+    "name": "Wanda",
+    "country": "South Korea",
+    "profession": "Fashion Designer ",
+    "hobby": "K-Pop dancing",
+    "joindate": "2025-03-17",
+    "martial_status": "Unmarried"
+  }
+}
+]
