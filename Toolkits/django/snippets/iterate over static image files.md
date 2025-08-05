@@ -1,0 +1,1 @@
+![[How to Django#To iterate over static image files]]
